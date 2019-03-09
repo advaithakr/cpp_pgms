@@ -134,6 +134,5 @@ int main()
     cout << endl;
     a.displayPostOrder();
     cout << endl;
-    // cout << a.head->right->left->data << endl;
     return 0;
 }
